@@ -21,8 +21,9 @@ screen.DisplayElement(helloWorld);
 
 ## How to use Layers
 - Create a Screen with a specific size
-- Create a Layer with a prio
-- Display Element with the Screen
+- Create a Layer
+- Add Elements to the created Layer
+- Display Layer with the Screen
 
 ```csharp
 Screen screen = new Screen(30, 10);
