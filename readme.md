@@ -40,6 +40,7 @@ screen.DisplayLayer(background);
 - Layer system
 - Multi-lines
 - Typing Animation
+- Chat system
 
 ## TODO Features
 - Image to ASCII
