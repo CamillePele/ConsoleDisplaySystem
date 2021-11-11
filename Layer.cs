@@ -14,6 +14,11 @@ namespace ConsoleDisplaySystem
             this.priority = priority;
         }
 
+        public Layer()
+        {
+            this.priority = 1;
+        }
+
         public Layer(int priority)
         {
             this.priority = priority;
