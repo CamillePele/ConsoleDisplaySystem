@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace MinivillesURSR46
+namespace ConsoleDisplaySystem
 {
     public class Layer
     {
